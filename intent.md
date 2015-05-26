@@ -80,6 +80,10 @@ the defense is higher, he misses. If the defense is equal to the attack, then it
 by default that means that no damage is dealt just like with a miss, but there are a lot of
 cards and abilities that affect what happens when blocked or can be used when blocking.
 
+A unit is 'flanked' if there are two enemies on exactly opposite sides of it, as in PF. Unlike
+PF, 'flanked' is a status on the unit, and is true for any attack against it, not just for the
+flanking characters.
+
 ### From the Overlord's perspective
 
 The 'Overlord' is the player who controls the dungeon and tries to kill the heroes. He controls
@@ -100,4 +104,16 @@ In general, if you see two numbers separated by a slash, they represent an attac
 Two numbers separated by an '@' (at symbol) represent attack bonus and damage.
 A "Full" action or attack costs a move AND a standard.
 The types are: Action, Reaction, Attack, Cast
+
+#### Status Conditions
+
+* flanked: -1 to defense
+* dazed: You lose and do not recharge 'move' actions while dazed.
+* confused: -1 to resist, lose and do not recharge 'swift' actions.
+* poisoned: At the start of your turn, roll. discard a card and an action at random if negative,
+  discard this status if positive.
+* aflame: At the start of your turn, roll. 1 damage if net-negative, discard if net-positive.
+* stunned: Skip your next turn, then discard this status.
+* blinded: All of your attacks and casts get -2. At the end of your turn, roll;
+  discard this status unless net is negative.
 
