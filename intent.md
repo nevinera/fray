@@ -103,7 +103,7 @@ turn to take forever.
 In general, if you see two numbers separated by a slash, they represent an attack and defense bonus.
 Two numbers separated by an '@' (at symbol) represent attack bonus and damage.
 A "Full" action or attack costs a move AND a standard.
-The types are: Action, Reaction, Attack, Cast
+The types are: Action, Reaction, Attack, Cast, Aid
 
 #### Status Conditions
 
@@ -111,9 +111,11 @@ The types are: Action, Reaction, Attack, Cast
 * dazed: You lose and do not recharge 'move' actions while dazed.
 * confused: -1 to resist, lose and do not recharge 'swift' actions.
 * poisoned: At the start of your turn, roll. discard a card and an action at random if negative,
-  discard this status if positive.
-* aflame: At the start of your turn, roll. 1 damage if net-negative, discard if net-positive.
+  discard this status if positive. (monsters can't discard cards, only actions)
+* aflame/bleeding: At the start of your turn, roll. 1 damage if net-negative, discard if net-positive.
 * stunned: Skip your next turn, then discard this status.
 * blinded: All of your attacks and casts get -2. At the end of your turn, roll;
   discard this status unless net is negative.
+* prone: remain prone until you can spend a move action to stand up. You count as flanked,
+  and cannot attack. Standing up provokes an AoO from anyone threatening you (before standing).
 

@@ -41,7 +41,6 @@ Attacks: 12
 Actions: 8
 
 #### Slash
-
 1. Standard Attack, 1@1
 2. May attack *two* adjacent enemies.
 3. +1 Damage
