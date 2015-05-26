@@ -93,3 +93,11 @@ expected to win about a third of the time - heroes must replay a given encounter
 
 There should seldom be more than 6 monsters on the board at once - we don't want the overlord's
 turn to take forever.
+
+### Notation
+
+In general, if you see two numbers separated by a slash, they represent an attack and defense bonus.
+Two numbers separated by an '@' (at symbol) represent attack bonus and damage.
+A "Full" action or attack costs a move AND a standard.
+The types are: Action, Reaction, Attack, Cast
+

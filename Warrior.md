@@ -42,25 +42,25 @@ Actions: 8
 
 #### Slash
 
-1. Standard Attack, 1/1
+1. Standard Attack, 1@1
 2. May attack *two* adjacent enemies.
 3. +1 Damage
 4. May attack *three* adjacent enemies.
 
 #### Hack
-1. Full Attack, 0/3
+1. Full Attack, 0@3
 2. +1
 3. 5 dmg
 4. Regain the move action afterward
 
 #### Charge
-1. Move Attack, -1/1, move 2-3 spaces in a straight line, then perform the attack
+1. Move Attack, -1@1, move 2-3 spaces in a straight line, then perform the attack
 2. +0, 2-4 spaces
 3. Motion does not provoke AoOs
 4. If successful, may choose to move the target one space in the same direction you moved.
 
 #### Whirlwind
-1. Full Attack, -1/1, attack all adjacent enemies
+1. Full Attack, -1@1, attack all adjacent enemies
 2. +0
 3. May move one space while attacking - all enemies adjacent to either square are attacked.
 4. 2 dmg
@@ -74,21 +74,21 @@ Standard Action
 
 
 #### Shield Bash
-1. Swift Attack, -1/1, can only be played if you have already hit the target this turn.
+1. Swift Attack, -1@1, can only be played if you have already hit the target this turn.
 2. If played as an AoO, extra +2
 3. +0
 4. damage is equal to victory margin
 
 #### Enrage
-1. Swift Action, +1/+1 to all attacks this turn, take one damage
+1. Swift Action, +1@+1 to all attacks this turn, take one damage
 2. Roll the dice - only take the damage if net is negative.
-3. +1/+2
-4. +2/+2
+3. +1@+2
+4. +2@+2
 
 #### Hurled Axe
-1. Standard Attack, 0/1, range 4
+1. Standard Attack, 0@1, range 4
 2. Range 6
-3. 0/2
+3. 0@2
 4. Can throw with a move action
 
 #### Stand Your Ground
@@ -100,17 +100,17 @@ Full Action - Place this card in front of you until your next turn.
 
 #### Thunderous Leap
 Move attack - you leap to a clear location up to 5 spaces away (without provoking)
-1. performing a -2/1 attack against all newly adjacent opponents
+1. performing a -2@1 attack against all newly adjacent opponents
 2. up to 6 spaces away
-3. a -1/1 attack
+3. a -1@1 attack
 4. And any of those units that are hit lose their move action for next turn.
 
 
 #### Overhand Chop
-1. Full Attack, move up to one space and then perform a 0/2 attack
-2. 1/2
+1. Full Attack, move up to one space and then perform a 0@2 attack
+2. 1@2
 3. move up to two spaces
-4. 1/3
+4. 1@3
 
 #### Stalwart Defender
 Swift Reaction - play in response to an ally within 3 spaces being attacked
@@ -128,13 +128,13 @@ more than one space per turn *total*.
 4. +2 defense
 
 #### Hamstring
-1. Standard Attack, 0/1, if successful, target loses their move action next turn.
+1. Standard Attack, 0@1, if successful, target loses their move action next turn.
 2. for the next two turns
-3. 1/1
+3. 1@1
 4. All of their attacks get a -1 penalty.
 
 #### Impale
-1. Standard Attack 0/1, target rolls every turn; if net is negative, they take one damage
+1. Standard Attack 0@1, target rolls every turn; if net is negative, they take one damage
 2. if net is zero, also take one damage
 3. if net is negative, lose a move action
 4. if net is worse than -1, lose all actions
@@ -154,10 +154,10 @@ Swift Action: Place in front of a target within 5 spaces
 4. target gets -1 to defense against other heroes
 
 #### Brutal Swing
-1. Standard Attack, -1/3
-2. -1/4
-3. -1/6
-4. 0/6
+1. Standard Attack, -1@3
+2. -1@4
+3. -1@6
+4. 0@6
 
 #### Rallying Yell
 1. Swift Action - all heroes may move one space without provoking
