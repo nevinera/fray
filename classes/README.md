@@ -25,6 +25,13 @@ A hybrid striker/tank/healer - he can shift into animal forms to perform as a (f
 striker or a durable tank with low damage (he relies on the threat of disengaging and healing
 to keep enemies from leaving him).
 
+### Blood Mage
+
+A healer-controller. Blood Mages *generate* MP by applying statuses to enemies, and spend it
+on healing and buffing allies. They have limited damage potential normally, but can stack up
+wounds over time to build up significant damage against a strong foe.
+
+
 ## Not Yet Implemented
 
 ### Wizard
@@ -49,10 +56,3 @@ and working with his pet, or on dealing as much ranged damage as possible.
 Combination tank/controller. He is adept at moving and tripping opponents, and many of his
 attacks can forgo damage to apply statuses. Solid defense, but needs room to move to avoid
 damage well.
-
-### Blood Mage
-
-A healer-controller. Blood Mages *generate* MP by applying statuses to enemies, and spend it
-on healing and buffing allies. They have limited damage potential normally, but have several
-options that allow them to build up to significant damage against a strong foe or spread minor
-damage among a group of enemies.
