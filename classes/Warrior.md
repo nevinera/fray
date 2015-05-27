@@ -1,13 +1,13 @@
 ## Warrior (class)
 
 The warrior can be played aggressively, but it is a solid class wearing strong armor
-and relying on melee combat. It has 5 starting health.
+and relying on melee combat.
 
 ### Always available
 
 * swift: Move up to one square without provoking AoO.
 * move: Move up to 6 squares
-* standard: attack a single adjacent enemy (+0)
+* standard: attack a single adjacent enemy +0@1
 
 ### Stances: choose one (changing is a move action)
 
@@ -18,16 +18,19 @@ and relying on melee combat. It has 5 starting health.
 ### Passives by level
 
 #### Level 1
-(1/1)
+* +1 attack, +1 defense, 5 hp
 
 #### Level 2
-(1/2) If your 'attack' is blocked, you may spend a swift action to retry it.
+* +1 attack, +2 defense, 7 hp
+* If your 'attack' is blocked, you may spend a swift action to retry it.
 
 #### Level 3
-(2/3) Any successful 'attack' that rolls at least 3 plusses does double damage.
+* +2 attack, +3 defense, 9 hp
+* Any successful 'attack' that rolls at least 3 plusses does double damage.
 
 #### Level 4
-(3/4) You can spend a swift action OR a move action on an AoO.
+* +3 attack, +4 defense, 12 hp
+* You can spend a swift action OR a move action on an AoO.
 
 
 ### Cards
