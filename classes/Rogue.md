@@ -11,8 +11,9 @@ their effectiveness through statuses. He benefits greatly by flanking opponents.
 
 ### Reactions: choose one during your turn
 
-* prepared: any cast or aid performed while in your threatened range provokes an AoO from you.
-* evasive: you may reactively spend a swift action to get +1 defense and +1 resist
+* prepared: Your threatened range is 2 - if a non-adjacent foe provokes and AoO from you,
+  you may immediately move 1 space in response to perform the attack.
+* evasive: you may reactively spend a swift action to get +2 defense or +2 resist
 * mobile: You may spend your move action to move one space without provoking in response to
   any action taken. If that places you outside the range of the action, it misses.
 
