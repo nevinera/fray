@@ -19,13 +19,13 @@ The rogue is a melee striker and controller - he focuses on dealing a lot of dam
 especially while flanking, and on applying status effects to his target. He is reasonably
 good at staying in melee without taking too much heat.
 
-## Not Yet Implemented
-
 ### Druid
 
-A hybrid striker/healer - he is suited to dealing ranged spell damage and intermittent healing.
-Can be built with a significant bias toward one or the other - 9 abilities in each vein and a
-couple of utilities and buffs.
+A hybrid striker/tank/healer - he can shift into animal forms to perform as a (fragile) melee
+striker or a durable tank with low damage (he relies on the threat of disengaging and healing
+to keep enemies from leaving him).
+
+## Not Yet Implemented
 
 ### Wizard
 
