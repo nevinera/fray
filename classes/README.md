@@ -33,7 +33,7 @@ A hybrid striker/controller - a ranged glass cannon, he can be built with an eye
 damage, or focus on controlling individuals and groups. A few escape abilities tossed in, because
 he is a very soft target.
 
-### Priest
+### Cleric
 
 He is primarily a healer/buffer, but can be built to function partly as a tank as well. Many of
 his heal spells are more effective or cheaper when cast on himself, he has solid defense,
