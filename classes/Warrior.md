@@ -11,9 +11,9 @@ and relying on melee combat.
 
 ### Stances: choose one (changing is a move action)
 
-* balanced: +1 resist
-* careful: -1 attack, +1 defense
-* aggressive: +1 attack, -1 defense
+* balanced: +1 resist, AA move +1
+* careful: -1 attack, +2 defense
+* aggressive: +1 attack, -1 defense, +1 damage
 
 ### Passives by level
 
