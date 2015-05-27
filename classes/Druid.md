@@ -45,6 +45,10 @@ Standard Actions: 10
 Move Actions: 5
 Swift Actions: 2
 
+Aid: 7
+Attack: 9
+Action: 4
+
 #### Charge
 1. Move Attack, move 2-3 spaces in a straight line, then attack -1@1.
 2. +0, 2-4 spaces
@@ -76,6 +80,94 @@ Swift Actions: 2
 3. gain 1 hp for each plus or blank
 4. and gain 1 defense
 
-(5)
+#### Rip
+1. Standard Attack - +1@1, inflicts bleeding - feral only
+2. May decline damage to attack up to three targets as a bear
+3. trips when used as a cat and flanking
+4. Inflicts a second bleed on the same target
 
+#### Bash
+1. Standard Attack, +2@0, stuns. Feral only
+2. Also confuses as cat, dazes as bear
+3. +3@0
+4. +5@0
 
+#### Grace
+1. Standard Aid (2 mana) - target gains +2 defense until your next turn
+2. Instead of discarding at the start of your turn, reduce the bonus by 1. When it reaches 0, discard
+3. target gains +3 defense
+4. Can self-cast for 1 mana, even while in feral forms.
+
+#### Bestial Roar
+1. Swift Action - All *units* within two spaces are dazed until your next turn
+2. And confused
+3. Affects enemies only
+4. extends to three spaces
+
+#### Crush
+1. Full Attack - +0@3, shifts you to bear-form automatically
+2. +1@3
+3. Inflicts bleed
+4. +2@4
+
+#### Flourish
+1. Standard Aid (2), you and all adjacent heroes regain 2 hp
+2. Can cast in bear form without provoking AoO
+3. causes regen
+4. regain 4 hp
+
+#### Nature's Gift
+1. Swift Aid (1), restore one hp to yourself or an adjacent hero
+2. also causes regen
+3. Can cast in Bear form without provoking AoO
+4. While in human form, gains range(4)
+
+#### Treants
+1. Full Aid (3 mana) - summon two treants at any locations within 3 spaces.
+They have 1 hp, move=1, standard=attack +0@1. You may never have more than two trents.
+2. Move is now 2, range is 4.
+3. 2 hp, +1@1
+4. attack is +2@1
+
+#### Bite
+1. Standard Attack, +1@1, inflicts bleed, feral only
+2. +2@1
+3. In cat, may move 1 space first without provoking. In bear, +2@2.
+4. Move Attack
+
+#### Disembowel
+1. Standard Attack, feral only, requires prone or stunned. +1@3
+2. Can be performed on bleeding enemies for one less damage
+3. +1@4
+4. +2@4
+
+#### Trip
+1. Move Attack, feral only - +1@0, trips
+2. As bear, may target two enemies. As cat, get +1 to hit
+3. Inflicts bleed
+4. As bear, you may move them one space as they fall (does not provoke AoOs). As cat,
+   you may move up to two squares before attacking.
+
+#### Camoflauge
+1. Move Action. Until next turn, you get +2 defense while in cat form, but you also cannot make AoOs.
+2. When an AoO is provoked, you may end this effect to perform the attack, rather than spend an action
+3. +2 resist while in cat form
+4. Move up to 3 spaces after using.
+
+#### Pounce
+1. Standard Attack - jump to any location in range(3), then attack +1@1.
+2. +2@1
+3. Inflicts bleed
+4. range(6)
+
+#### Bull Rush
+1. Move Action - move up to 4 spaces, you may move through enemies and do not provoke AoOs.
+2. Any enemies you move through lose their move action
+3. May move up to 6 spaces
+4. Any enemies you move through lose their standard action instead of their move action.
+
+#### Healing Rain
+1. Standard Aid (2 mana), Remove all statuses and conditions from you and allies within 4 spaces
+2. And restore 1 hp
+3. Can cast in feral forms without provoking AoO
+4. Can cast for one mana by reducing range to 2 spaces.

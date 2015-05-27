@@ -127,3 +127,4 @@ action to perform a *standard* attack against the provoking unit.
   discard this status unless net-negative
 * prone: remain prone until you can spend a move action to stand up. You count as flanked, and
   cannot attack. Standing up provokes an AoO (while still prone) from anyone threatening you.
+* regen: At the start of your turn, regain 1 hp and then roll. Discard this status unless positive
