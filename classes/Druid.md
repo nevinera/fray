@@ -29,11 +29,11 @@ or have different effects in different forms
 * in cat form, you may pay 1 mana for a +1 on any attack
 
 #### Level 3
-* 8 hp, 7 mana
+* 8 hp, 7 mana, +2/+1
 * in bear form, when you are dealth 3+ damage in one attack, prevent one of those damage.
 
 #### Level 4
-* 10 hp, 8 mana
+* 10 hp, 8 mana, +2/+2
 * you may spend a swift action to shift at any time
 * you may use aid actions that target yourself while in any form by paying an extra mana.
 
