@@ -63,7 +63,7 @@ Action: 4
 4. blinded or tripped targets are also bleeding.
 
 #### Renewal
-1. Standard Aid, 2mp, range 2. Target gains 1 hp.
+1. Standard Aid, 1mp, range 2. Target gains 1 hp.
 2. Target rolls; if net-positive, gains an extra hp
 3. Target gets +1 to resist until your next turn
 4. Target gets +1 to defense until your next turn
