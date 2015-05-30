@@ -148,11 +148,11 @@ They have 1 hp, move=1, standard=attack +0@1. You may never have more than two t
 4. As bear, you may move them one space as they fall (does not provoke AoOs). As cat,
    you may move up to two squares before attacking.
 
-#### Camoflauge
-1. Move Action. Until next turn, you get +2 defense while in cat form, but you also cannot make AoOs.
+#### Camouflage
+1. Move Action. Until next turn, you get +3 defense while in cat form, but you also cannot make AoOs.
 2. When an AoO is provoked, you may end this effect to perform the attack, rather than spend an action
 3. +2 resist while in cat form
-4. Move up to 3 spaces after using.
+4. Move up to 3 spaces after using, safely.
 
 #### Pounce
 1. Standard Attack - jump to any location in range(3), then attack +1@1.
