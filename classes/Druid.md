@@ -114,7 +114,7 @@ Action: 4
 1. Standard Aid (4), you and all adjacent heroes regain 2 hp
 2. Can cast in bear form without provoking AoO
 3. causes regen
-4. regain 4 hp
+4. regain 3 hp
 
 #### Nature's Gift
 1. Swift Aid (1), restore one hp to yourself or an adjacent hero
